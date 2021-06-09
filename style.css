@@ -351,7 +351,7 @@ footer p,
 footer ul,
 footer li{
     color:#5e5e5e;
-    list-style: circle;
+    list-style: none;
 }
 
 
